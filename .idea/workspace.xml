@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0f0f63d-6c09-4d5c-bb34-712108861cbb" name="Changes" comment="finished project">
+    <list default="true" id="e0f0f63d-6c09-4d5c-bb34-712108861cbb" name="Changes" comment="added comments in files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Commission.html" beforeDir="false" afterPath="$PROJECT_DIR$/Commission.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Media.html" beforeDir="false" afterPath="$PROJECT_DIR$/Media.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/Resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutMe.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutMe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +79,8 @@
       <workItem from="1701103221246" duration="3538000" />
       <workItem from="1701107851973" duration="4848000" />
       <workItem from="1701118195451" duration="4646000" />
-      <workItem from="1701185494473" duration="8988000" />
+      <workItem from="1701185494473" duration="9034000" />
+      <workItem from="1701195201688" duration="880000" />
     </task>
     <task id="LOCAL-00001" summary="finished project">
       <option name="closed" value="true" />
@@ -91,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701194537681</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fixed jumbotron">
+      <option name="closed" value="true" />
+      <created>1701194950988</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701194950988</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +114,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finished project" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished project" />
+    <MESSAGE value="fixed jumbotron" />
+    <MESSAGE value="added comments in files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added comments in files" />
   </component>
 </project>
