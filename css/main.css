@@ -1,11 +1,149 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar li{
+    justify-content: space-evenly;
+}
+
+body{
+    background: #FEBD00;
+}
+
+/* home code */
+#squareH1{
+    max-width: 35%;
+    height: 750px;
+    padding: 1em;
+    margin: 1em 2em;
+    float: left;
+    background: sandybrown;
+}
+
+.p-5{
+    max-width: 100%;
+    min-width: 55%;
+    float:left;
+    margin: 1.5em;
+}
+.mb-3{
+    color: brown;
+}
+
+#cardM{
+    height: 20em;
+    background: sandybrown;
+    margin: 0 7em;
+    float: left;
+}
+
+#cardK{
+    height: 20em;
+    background: sandybrown;
+    margin : 0 7em;
+    float: left;
+}
+
+/* about me code */
+.abouttxt{
+    border: 6px solid black;
+    max-width: 60%;
+    min-width: 40%;
+    padding: 3px;
+    float:left;
+    margin-top: 10px;
+}
+.abouttxt h1{
+    text-align: center;
+}
+
+#aboutPics{
+    float:left;
+    max-width: 34%;
+    min-width: 400px;
+    padding: 20px 12em;
+}
+
+#aboutPics h5{
+    text-align: center;
+}
+
+#geass{
+    border: 3px solid black;
+    padding: 4px;
+}
+
+#holyland{
+    border: 3px solid black;
+    border-top: none;
+    padding: 4px;
+}
+
+/* Resume code*/
+.resume-container{
+    margin-top: 20px;
+}
+#resume{
+    max-width: 20%;
+    min-width: 30%;
+    float:left;
+    margin: 0 3em;
+}
+
+/*Projects code*/
+#projects{
+    max-width: 30%;
+    min-width: 20%;
+    margin: 3em;
+    float: left;
+}
+
+
+/*commission code*/
+.carousel{
+    max-width: 46.4%;
+    min-width: 30%;
+    margin: 2em;
+}
+
+#details{
+    height: 400px;
+    text-align:start;
+}
+
+.comForm{
+    max-width: 50%;
+    min-width: 30%;
+    margin: 0 10px;
+}
+
+.keyTextForm{
+    max-width: 50%;
+    min-width: 30%;
+
+}
+
+.comText{
+    max-width: 42em;
+    min-width: 15em;
+    border: 6px solid black;
+    margin: 2em 10px;
+    padding: 4px;
+}
+
+.comText H1{
+    text-align: center;
+}
+/* footer code */
 .footer {
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: aliceblue;
-    color: white;
+    background-color: sandybrown;
+    color: black;
     text-align: center;
     padding: 10px;
-    font-size: 0.5rem;
+    font-size: 0.75rem;
 }

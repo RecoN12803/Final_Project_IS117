@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>My First Bootstrap Page</title>
+    <title>Home</title>
     <!-- CSS only -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
           rel="stylesheet"
@@ -19,8 +19,6 @@
                     bg-dark navbar-dark
                     col-12">
 
-                <!-- Brand -->
-                <a class="navbar-brand" href="#">Logo</a>
                 <!-- Responsive Button for the smaller menu -->
                 <button class="navbar-toggler" type="button"
                         data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
@@ -30,45 +28,76 @@
                     <ul class="navbar-nav">
                         <!-- Links -->
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Link 1</a>
+                            <a class="nav-link" href="index.html">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Link 2</a>
+                            <a class="nav-link" href="aboutMe.html">About Me</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Contact</a>
-                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="" id="navbardropR"
+                               data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Resume
+                            </a>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item" href="Resume.html">Current Resume</a>
+                                <a class="dropdown-item" href="Projects.html">Projects</a>
+                            </div>
 
                         <!-- Dropdown -->
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="navbardrop"
+                            <a class="nav-link dropdown-toggle" href="#" id="navbardropC"
                                data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                Education
+                                Contact
                             </a>
                             <div class="dropdown-menu">
-                                <a class="dropdown-item" href="#">Link 1</a>
-                                <a class="dropdown-item" href="#">Link 2</a>
-                                <a class="dropdown-item" href="#">Link 3</a>
-                                <a class="dropdown-item" href="#">Link 4</a>
+                                <a class="dropdown-item" href="Commission.html">Mechanical Keyboard Commissions</a>
+                                <a class="dropdown-item" href="Media.html">Media Contact</a>
+
                             </div>
                         </li>
                     </ul>
                 </div>
             </nav>
-        <div class="row">
-        <p class="col-1">Col 1</p>
-        <p class="col-1">Col 2</p>
-        <p class="col-1">Col 3</p>
-        <p class="col-1">Col 4</p>
-        <p class="col-1">Col 5</p>
-        <p class="col-1">Col 6</p>
-        <p class="col-1">Col 7</p>
-        <p class="col-1">Col 8</p>
-        <p class="col-1">Col 9</p>
-        <p class="col-1">Col 10</p>
-        <p class="col-1">Col 11</p>
-        <p class="col-1">Col 12</p>
+<div>
+        <div id="squareH1">
+            <h2> Hello and welcome to my page</h2>
+            <p> This is a page where I am talking all about myself and what I like to do. Some things you will find on this site are my social media, resume, projects, a mechanical keyboard commission, and a light summary on who I am.
+                <br><br>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet facilisis magna etiam tempor orci. Urna id volutpat lacus laoreet non curabitur. Enim eu turpis egestas pretium. Non arcu risus quis varius quam quisque id. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Ut morbi tincidunt augue interdum velit euismod in. Varius quam quisque id diam vel quam elementum. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus. Scelerisque in dictum non consectetur a erat nam at. Nunc vel risus commodo viverra maecenas accumsan lacus vel facilisis. Quis viverra nibh cras pulvinar mattis nunc sed blandit libero. Felis imperdiet proin fermentum leo vel. Viverra justo nec ultrices dui sapien eget mi proin sed. Nec ultrices dui sapien eget mi proin sed libero enim. Pulvinar elementum integer enim neque volutpat. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue.
+
+                Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Quis viverra nibh cras pulvinar mattis nunc sed blandit. Dui nunc mattis enim ut tellus. Phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Libero volutpat sed cras ornare arcu. Mus mauris vitae ultricies leo integer malesuada. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Justo nec ultrices dui sapien. Quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Facilisis volutpat est velit egestas dui id ornare arcu odio. Leo a diam sollicitudin tempor. Feugiat scelerisque varius morbi enim nunc faucibus a. At consectetur lorem donec massa. Morbi tristique senectus et netus et malesuada. Libero nunc consequat interdum varius sit amet.</p>
         </div>
+
+        <div class="p-5 text-center bg-image rounded-3" style="
+        background-image: url('https://w.wallhaven.cc/full/39/wallhaven-39p9ky.png' ) ;
+        height: 400px;
+        ">
+            <div class="mask" style="background-color: rgba(254, 189, 0, 0.4);">
+                <div class="d-flex justify-content-center align-items-center h-100">
+                    <div class="text-white">
+                        <h1 class="mb-3">Korone</h1>
+                        <h4 class="mb-3">One of the first Vtubers popular in the west</h4>
+                        <a class="btn btn-outline-danger btn-lg" href="https://www.youtube.com/@InugamiKorone" target="_blank" role="button">To her channel</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card" id="cardK" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">Keyboards</h5>
+                <p class="card-text">I have been building keyboards for years now and all my clients still have constant customer service with questions or repairs. </p>
+                <a href="Commission.html" class="btn btn-primary">Build me one!</a>
+            </div>
+        </div>
+        <div class="card" id="cardM" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">Anime/Manga</h5>
+                <p class="card-text">Over the many years of watching anime and reading manga/manhwa/manhua I have a lot of series under my belt and lots of recommendations. Take a look if you would like some suggestions.</p>
+                <a href="aboutMe.html" class="btn btn-primary">Let me take a look</a>
+            </div>
+        </div>
+</div>
 </div>
  <footer class="footer page-footer font-small ">
      <div class="container">

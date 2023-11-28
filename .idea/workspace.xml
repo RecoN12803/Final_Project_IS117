@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0f0f63d-6c09-4d5c-bb34-712108861cbb" name="Changes" comment="" />
+    <list default="true" id="e0f0f63d-6c09-4d5c-bb34-712108861cbb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Media.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +50,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IS117Download\student_download\Final Project" />
+      <recent name="E:\IS117Download\student_download\Final Project\Pictures" />
+      <recent name="E:\IS117Download\student_download\Final Project\Pages" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,7 +68,15 @@
       <workItem from="1699546183168" duration="253000" />
       <workItem from="1699546990240" duration="304000" />
       <workItem from="1699819174773" duration="249000" />
-      <workItem from="1700917689392" duration="206000" />
+      <workItem from="1700917689392" duration="20534000" />
+      <workItem from="1700943355312" duration="304000" />
+      <workItem from="1700969280200" duration="5976000" />
+      <workItem from="1701098882949" duration="715000" />
+      <workItem from="1701099866128" duration="2055000" />
+      <workItem from="1701103221246" duration="3538000" />
+      <workItem from="1701107851973" duration="4848000" />
+      <workItem from="1701118195451" duration="4646000" />
+      <workItem from="1701185494473" duration="8503000" />
     </task>
     <servers />
   </component>
